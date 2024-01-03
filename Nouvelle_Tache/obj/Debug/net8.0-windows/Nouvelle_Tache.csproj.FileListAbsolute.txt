@@ -1,0 +1,17 @@
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\bin\Debug\net8.0-windows\Nouvelle_Tache.exe
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\bin\Debug\net8.0-windows\Nouvelle_Tache.deps.json
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\bin\Debug\net8.0-windows\Nouvelle_Tache.runtimeconfig.json
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\bin\Debug\net8.0-windows\Nouvelle_Tache.dll
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\bin\Debug\net8.0-windows\Nouvelle_Tache.pdb
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.New_Tache.resources
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.Properties.Resources.resources
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.AssemblyInfo.cs
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.dll
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\refint\Nouvelle_Tache.dll
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.pdb
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\Nouvelle_Tache.genruntimeconfig.cache
+C:\Users\alexi\Desktop\DEV\C#\Nouvelle_Tache\obj\Debug\net8.0-windows\ref\Nouvelle_Tache.dll

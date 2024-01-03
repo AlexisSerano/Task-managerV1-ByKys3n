@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "DataBaseSave/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataBaseSave.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataBaseSave.dll": {}
+        }
+      },
+      "Nouvelle_Tache/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Nouvelle_Tache.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Nouvelle_Tache.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DataBaseSave/1.0.0": {
+      "type": "project",
+      "path": "../DataBaseSave/DataBaseSave.csproj",
+      "msbuildProject": "../DataBaseSave/DataBaseSave.csproj"
+    },
+    "Nouvelle_Tache/1.0.0": {
+      "type": "project",
+      "path": "../Nouvelle_Tache/Nouvelle_Tache.csproj",
+      "msbuildProject": "../Nouvelle_Tache/Nouvelle_Tache.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "DataBaseSave >= 1.0.0",
+      "Nouvelle_Tache >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alexi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alexi\\Desktop\\DEV\\C#\\GestionnaireDeTache\\GestionnaireDeTache.csproj",
+      "projectName": "GestionnaireDeTache",
+      "projectPath": "C:\\Users\\alexi\\Desktop\\DEV\\C#\\GestionnaireDeTache\\GestionnaireDeTache.csproj",
+      "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexi\\Desktop\\DEV\\C#\\GestionnaireDeTache\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\alexi\\Desktop\\DEV\\C#\\DataBaseSave\\DataBaseSave.csproj": {
+              "projectPath": "C:\\Users\\alexi\\Desktop\\DEV\\C#\\DataBaseSave\\DataBaseSave.csproj"
+            },
+            "C:\\Users\\alexi\\Desktop\\DEV\\C#\\Nouvelle_Tache\\Nouvelle_Tache.csproj": {
+              "projectPath": "C:\\Users\\alexi\\Desktop\\DEV\\C#\\Nouvelle_Tache\\Nouvelle_Tache.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

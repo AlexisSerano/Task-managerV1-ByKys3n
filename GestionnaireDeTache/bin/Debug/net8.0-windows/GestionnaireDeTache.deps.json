@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GestionnaireDeTache/1.0.0": {
+        "dependencies": {
+          "DataBaseSave": "1.0.0",
+          "Nouvelle_Tache": "1.0.0"
+        },
+        "runtime": {
+          "GestionnaireDeTache.dll": {}
+        }
+      },
+      "DataBaseSave/1.0.0": {
+        "runtime": {
+          "DataBaseSave.dll": {}
+        }
+      },
+      "Nouvelle_Tache/1.0.0": {
+        "runtime": {
+          "Nouvelle_Tache.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionnaireDeTache/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataBaseSave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nouvelle_Tache/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
